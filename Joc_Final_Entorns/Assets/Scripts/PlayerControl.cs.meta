@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 8971882865aa42343a3698e9cbe5e45b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {instanceID: 0}
+  - mainCamera: {instanceID: 0}
+  - jo: {instanceID: 0}
+  - model: {instanceID: 0}
+  - GameOverText: {instanceID: 0}
+  - MenuInGame: {instanceID: 0}
+  - itemsoundclip: {fileID: 8300000, guid: 51acf91ccc673544da35208d5a5bff30, type: 3}
+  - dmgsoundclip: {fileID: 8300000, guid: 686b08c0e1f904c428fc71e540ba9fb4, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

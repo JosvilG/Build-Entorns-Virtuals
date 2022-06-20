@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: dcfc8754b78d14b4f805f768b6fe8c2e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - drop: {instanceID: 0}
+  - drop2: {instanceID: 0}
+  - model: {instanceID: 0}
+  - pos: {instanceID: 0}
+  - itemsoundclip: {fileID: 8300000, guid: ccd46cd91568dc547aeb70e3b42c5db5, type: 3}
+  - elenemigolapalmaclip: {fileID: 8300000, guid: 3db6fd1d0936f2f4195e28274a2c2326,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
