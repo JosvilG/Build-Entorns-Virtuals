@@ -1,7 +1,7 @@
 # Virtual environments build
 
 ## Build link
-* [Link](#https://josvilg.itch.io/entorns)
+* [Link](# https://josvilg.itch.io/entorns)
 
 ## General info
 This project is simple Lorem ipsum dolor generator.
