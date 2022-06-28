@@ -4,7 +4,7 @@
 * [Link](https://josvilg.itch.io/entorns)
 
 ## General info
-This project is simple Lorem ipsum dolor generator.
+This project was created for a university subject.
 	
 ## Technologies
 Project is created with:
